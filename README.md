@@ -1,4 +1,4 @@
-<h2 align="left">Hey What's Up? I'm Engr. Muhammad Rizwan Khan Usafzai</h2>
+<h2 align="left">Hey There! I'm Engr. Muhammad Rizwan Khan Usafzai</h2>
 
 ###
 
