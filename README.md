@@ -115,6 +115,10 @@
 
 ###
 
+<h2 align="left">Streaks:</h2>
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/mrkdatanalysts/mrkdatanalysts/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/mrkdatanalysts/mrkdatanalysts/languages-output/languages.svg" height="150" alt="languages graph"  />
@@ -128,10 +132,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrkdatanalysts/mrkdatanalysts/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrkdatanalysts/mrkdatanalysts/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrkdatanalysts/mrkdatanalysts/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/mrkdatanalysts/mrkdatanalysts/snake-output/snake.svg" alt="Snake animation" />
 
 ###
